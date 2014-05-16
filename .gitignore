@@ -2,3 +2,5 @@
 cookbooks
 Berksfile.lock
 .vagrant
+*.sublime-project
+*.sublime-workspace
