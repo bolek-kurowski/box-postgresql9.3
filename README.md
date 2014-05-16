@@ -31,6 +31,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
 
+## 0.0.8
+
+- update to PostgreSQL 9.3
+
 ## 0.0.4
 
 - Update readme
